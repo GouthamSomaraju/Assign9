@@ -1,0 +1,62 @@
+div{
+    border: 2px solid black;
+    width: 700px;
+    height: 910px;
+    
+}
+.div1{
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    
+    
+}
+.div11{
+    float: left;
+    clear: right;
+    background-color: yellow;
+    background-image: url(prabhas.jfif);
+    background-repeat:no-repeat;
+    background-position: center;
+   background-size: 120px;
+    
+}
+.div22{
+    float: right;
+    clear: left;
+    /* background-color: blue; */
+    background-image: linear-gradient(to left, red, blue, green, black);
+    
+}
+.div33{
+    float: left;
+    clear: right;
+    /* background-color: chartreuse; */
+    background-image: linear-gradient(to bottom,red, yellow, orange,white 50%, green, yellow);
+}
+.div44{
+    float: right;
+    clear: left;
+    background-color: rgb(9, 108, 189);
+    background-image: url(facebook-1-svgrepo-com.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100px;
+}
+.div55{
+    float:left ;
+    clear: right;
+    background-color: chocolate;
+    /* background-color: firebrick; */
+    background-image: url(Prabhas.jpg);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.div66{
+    float: right;
+    clear: left;
+    /* background-color: black; */
+    background-image: radial-gradient(yellow,red,aqua,black,white);
+}
